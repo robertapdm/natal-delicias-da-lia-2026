@@ -37,3 +37,14 @@ Projeto organizado em HTML semântico, CSS e JavaScript nativos, sem frameworks,
 - Pela CLI, execute `npx vercel` na pasta raiz e `npx vercel --prod` depois de conferir o preview.
 - Pelo GitHub, envie o conteúdo desta pasta para a raiz do repositório e use Import Project na Vercel.
 - O `vercel.json` configura cabeçalhos de segurança e cache de imagens.
+
+## Atualização das fotos e prazo
+- Prazo dos pedidos: **18/12/2026**.
+- Fotos reais fornecidas pela confeitaria convertidas em WebP (limite 900 × 1125 px), sem cortes ou distorções nos arquivos.
+- Galerias de produtos separadas por tipo, com no máximo três miniaturas.
+- Imagem da Nutella continua sendo ilustrativa, identificada no site.
+- Para publicar, substitua os arquivos no repositório GitHub, faça commit e push da branch de produção.
+
+## Ajuste de contato (26/11/2026)
+- WhatsApp fixado na margem direita, com faixa livre no desktop para não cobrir cards.
+- Instagram no rodapé apresentado como ícone SVG local e @delicias_dalya.
